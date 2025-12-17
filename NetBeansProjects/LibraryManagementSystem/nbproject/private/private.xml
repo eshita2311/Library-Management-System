@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/util/DBConnection.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/util/TestDB.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/dao/TestLogin.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/ui/LoginFrame.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/ui/DashboardFrame.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/ui/BooksFrame.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/ui/AddBooksFrame.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/ui/RemoveBooksFrame.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/ui/IssueBookFrame.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/dao/LibrarianDAO.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/ui/ReturnBookFrame.java</file>
+            <file>file:/C:/NetBeansProjects/LibraryManagementSystem/src/librarymanagementsystem/ui/IssuedBooksFrame.java</file>
+        </group>
+    </open-files>
+</project-private>
